@@ -1,0 +1,11 @@
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.negocio.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.negocio.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.data.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.Entidd.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.data.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\bin\Debug\Registro.Entidd.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\obj\Debug\Registro.negocio.csproj.AssemblyReference.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\obj\Debug\Registro.negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\obj\Debug\Registro.negocio.csproj.CopyComplete
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\obj\Debug\Registro.negocio.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.negocio\obj\Debug\Registro.negocio.pdb

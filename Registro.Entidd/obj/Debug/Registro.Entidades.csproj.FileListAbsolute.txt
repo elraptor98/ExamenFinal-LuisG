@@ -1,0 +1,6 @@
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\bin\Debug\Registro.Entidd.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\bin\Debug\Registro.Entidd.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\obj\Debug\Registro.Entidades.csproj.AssemblyReference.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\obj\Debug\Registro.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\obj\Debug\Registro.Entidd.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.Entidd\obj\Debug\Registro.Entidd.pdb

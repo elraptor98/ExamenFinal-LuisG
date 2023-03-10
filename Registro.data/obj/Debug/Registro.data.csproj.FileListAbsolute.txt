@@ -1,0 +1,9 @@
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\bin\Debug\Registro.data.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\bin\Debug\Registro.data.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\bin\Debug\Registro.Entidd.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\bin\Debug\Registro.Entidd.pdb
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\obj\Debug\Registro.data.csproj.AssemblyReference.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\obj\Debug\Registro.data.csproj.CoreCompileInputs.cache
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\obj\Debug\Registro.data.csproj.CopyComplete
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\obj\Debug\Registro.data.dll
+C:\Users\Luis Garcia\Desktop\RegistroNotas_LuisG\Registro.data\obj\Debug\Registro.data.pdb
